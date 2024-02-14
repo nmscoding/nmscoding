@@ -1,25 +1,39 @@
-
-### Hi there 👋, Alper Filiz
-#### Web Developer
-##### Founder of @nmscoding https://www.instagram.com/nmscoding
+<h1 align="center">
+<strong>Hi there 👋, Alper Filiz</strong>
+</h1>
+<h2 align="center">
+<strong>Web Developer</strong>
+</h2>
+<h4 align="center">
+<strong>Founder of @nmscoding https://www.instagram.com/nmscoding</strong>
+</h4>
+<p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw4N2U3MHEybWhidjM3NnBxNXBiNWE4eGNzZzBndDc4Z25mdWwyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMqrD7JEB6IPmENh4i/giphy.gif" alt="">
+</p>
 
+<h2 align="center">
+🌐 Socials:
+</h2>
 
-## 🌐 Socials:
+<p align="center">
 <a href="https://instagram.com/alper.flz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="" height="40px"></a>
 <a href="https://tiktok.com/@nmscoding"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="" height="40px"></a>
 <a href="https://x.com/alperf35"><img src="https://img.shields.io/badge/X-black.svg" alt="" height="40px"></a>
+</p>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
-</a>
+<h2 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
+</a></h2>
 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+<p align="center">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
+</h2> 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nmscoding&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" >
 </p>
@@ -31,6 +45,7 @@
 </p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nmscoding&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -6,9 +6,9 @@
 
 
 ## 🌐 Socials:
-<a href="https://instagram.com/alper.flz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt=""></a>
-<a href="https://tiktok.com/@nmscoding"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt=""></a>
-<a href="https://x.com/alperf35"><img src="https://img.shields.io/badge/X-black.svg" alt=""></a>
+<a href="https://instagram.com/alper.flz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="" height="40px"></a>
+<a href="https://tiktok.com/@nmscoding"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="" height="40px"></a>
+<a href="https://x.com/alperf35"><img src="https://img.shields.io/badge/X-black.svg" alt="" height="40px"></a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>

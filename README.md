@@ -1,7 +1,7 @@
 
 ### Hi there 👋, Alper Filiz
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://r.resimlink.com/nRc6MdV-1H.png)
 
 
 ## 🌐 Socials:

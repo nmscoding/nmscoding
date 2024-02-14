@@ -2,7 +2,7 @@
 ### Hi there 👋, Alper Filiz
 #### Web Developer
 ##### Founder of @nmscoding https://www.instagram.com/nmscoding
-![Web Developer](https://r.resimlink.com/nRc6MdV-1H.png)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw4N2U3MHEybWhidjM3NnBxNXBiNWE4eGNzZzBndDc4Z25mdWwyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMqrD7JEB6IPmENh4i/giphy.gif" alt="">
 
 
 ## 🌐 Socials:
